@@ -9,7 +9,7 @@ See ./test.js for example usage.
 MIT
 
 ## Contributing
-See [./CONTRIBUTING.md](contributing) for instructions on how to contribute.
+See [Contributing](https://github.com/Artlfmj/express-url-shortener/blob/main/CONTRIBUTING.md) for instructions on how to contribute.
 
 ## Tests
 See test.js for test examples

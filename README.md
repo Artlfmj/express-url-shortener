@@ -9,13 +9,13 @@ See ./test.js for example usage.
 MIT
 
 ## Contributing
-See ./CONTRIBUTING.md for instructions on how to contribute.
+See [./CONTRIBUTING.md](contributing) for instructions on how to contribute.
 
 ## Tests
-See ./test.js for test examples
+See test.js for test examples
 
 ## Code
-See ./index.js for the code.
+See index.js  and db.js for the code.
 
 ## Contributors
 

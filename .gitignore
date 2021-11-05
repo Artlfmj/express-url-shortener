@@ -79,3 +79,4 @@ typings/
 db/
 db/config.json
 
+db/codes.json

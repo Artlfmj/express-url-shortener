@@ -2,22 +2,22 @@
 
 A simple Express url shortner module
 
-    ## Usage
-    See ./test.js for example usage.
+## Usage
+See ./test.js for example usage.
 
-    ## License
-    MIT
+## License
+MIT
 
-    ## Contributing
-    See ./CONTRIBUTING.md for instructions on how to contribute.
+## Contributing
+See ./CONTRIBUTING.md for instructions on how to contribute.
 
-    ## Tests
-    See ./test.js for test examples
+## Tests
+See ./test.js for test examples
 
-    ## Code
-    See ./index.js for the code.
+## Code
+See ./index.js for the code.
 
-    ## Contributors
+## Contributors
 
-    Artlfmj
-    [@artlfmj](https://github.com/artlfmj)
+Artlfmj
+[@artlfmj](https://github.com/artlfmj)

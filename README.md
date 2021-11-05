@@ -3,7 +3,7 @@
 A simple Express url shortner module
 
 ## Usage
-See ./test.js for example usage.
+See test.js for example usage.
 
 ## License
 MIT
